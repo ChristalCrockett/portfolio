@@ -45,12 +45,23 @@ p {
   color: black;
   font-family: "Poppins", san-serif;
   font-weight: normal;
+  font-size: 16px;
+  line-height: 1.5px;
 }
 
 .btn-branding {
   background-color: #6c63ff;
   border-radius: 4px;
   color: white;
+  line-height: 27px;
+  padding: 12px 20px;
+}
+
+.btn-branding-outline {
+  border: 1px solid #6c63ff;
+  border-radius: 4px;
+  font-size: 18px;
+  color: #6c63ff;
   line-height: 27px;
   padding: 12px 20px;
 }
