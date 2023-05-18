@@ -88,3 +88,15 @@ p {
     text-align: center;
   }
 }
+
+.content h3 {
+  font-size: 18px;
+  font-family: "Poppins", san-serif;
+  font-weight: normal;
+}
+
+.content h2 {
+  font-size: 44px;
+  font-family: "Playfair Display", serif;
+  padding: 10px;
+}
