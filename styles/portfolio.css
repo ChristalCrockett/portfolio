@@ -45,9 +45,9 @@ h6 {
   padding: 100px 20px;
   text-align: center;
 }
-.content-section h1 {
+.about-content h1 {
   font-size: 44px;
-  line-height: 40px;
+  line-height: 60px;
 }
 
 .content-section h2 {
@@ -114,10 +114,17 @@ p {
   }
 }
 
+.content h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 64px;
+  font-weight: normal;
+  line-height: 20px;
+}
+
 .content h3 {
   font-size: 18px;
   font-family: "Poppins", san-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .content h2 {
