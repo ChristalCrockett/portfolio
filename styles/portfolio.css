@@ -118,7 +118,8 @@ p {
   font-family: "Playfair Display", serif;
   font-size: 64px;
   font-weight: normal;
-  line-height: 20px;
+  line-height: 80px;
+  text-align: center;
 }
 
 .content h3 {
